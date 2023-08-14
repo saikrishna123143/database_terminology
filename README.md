@@ -1,3 +1,4 @@
 database terminology:
-    what is dbms,databse,table,entity,RDMBS?
+
+    what is dbms,database,table,entity,RDMBS?
     
