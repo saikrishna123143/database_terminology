@@ -1,0 +1,50 @@
+database definition:
+
+    database collection of interelated data in a organised form.
+           interreleted =>data depends on the other data of same kind
+           organised=>arranging in a meaningful form.
+
+database management system:
+
+     software that maintain,create and update the databases is called database management system.
+
+relational database management system:
+   
+     software that maintain,create and update the database in the form of tables is called RDBMS.
+
+different RDBMS on present market:
+  
+      oracle       =>oracle
+      sql server   =>microsoft
+      my sql       =>sun microsystems=> oracle
+      db2          =>IBM
+
+table definition:
+ 
+     collection of columns&rows.it is also called entity.
+          columns: fields/attributes/property
+          rows   : records/tuple/entity instance
+
+metadata:
+  
+     data about data.
+     eg:
+         1)table_name
+         2)field_names
+         3)datatypes
+         4)field_size
+
+oracle database s/w allows us to store,manipulate& retrieve the data of datbase.
+
+      manipulate=>INSERT/UPDATE/DELETE
+      retrive   =>opening existing data.
+
+latest version:
+
+      ORACLE 21C  =>windows
+
+SQL--- it is a query language.
+PL/SQL---it is a procedural language.(using programming)
+
+
+
